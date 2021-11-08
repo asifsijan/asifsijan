@@ -30,7 +30,7 @@ Live sites: <br>
             <img src="./images/django.png" width="50">
         </td>
         <td align="center">
-            <img src="./images/fast.png" width="50">
+            <img src="./images/fast.png" width="130">
         </td>
     </tr>
     <tr>
@@ -88,6 +88,26 @@ Live sites: <br>
         </td>
         <td align="center">
             <label>Next</label>
+        </td>
+    </tr>
+</table>
+
+<h4>Others:</h4>
+<table>
+    <tr>
+    	<td align="center">
+            <img src="./images/unity.png" width="60">
+        </td>
+        <td align="center">
+            <img src="./images/tf.png" width="60">
+        </td>
+    </tr>
+    <tr>
+    	<td align="center">
+            <label>Unity</label>
+        </td>
+        <td align="center">
+            <label>Tensorflow</label>
         </td>
     </tr>
 </table>
