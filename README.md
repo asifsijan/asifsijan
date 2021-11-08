@@ -30,7 +30,10 @@ Live sites: <br>
             <img src="./images/django.png" width="50">
         </td>
         <td align="center">
-            <img src="./images/fast.jpg" width="130">
+            <img src="./images/fast.jpg" width="50">
+        </td>
+        <td align="center">
+            <img src="./images/strapi.jpg" width="50">
         </td>
     </tr>
     <tr>
@@ -52,6 +55,9 @@ Live sites: <br>
         <td align="center">
             <label>Fast Api</label>
         </td>
+        <td align="center">
+            <label>Strapi</label>
+        </td>
     </tr>
 </table>
 <h4>Front End:</h4>
@@ -70,7 +76,7 @@ Live sites: <br>
             <img src="./images/react.png" width="60">
         </td>
         <td align="center">
-            <img src="./images/next.jpg" width="60">
+            <img src="./images/next.png" width="60">
         </td>
     </tr>
     <tr>
