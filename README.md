@@ -30,7 +30,7 @@ Live sites: <br>
             <img src="./images/django.png" width="50">
         </td>
         <td align="center">
-            <img src="./images/fast.png" width="130">
+            <img src="./images/fast.jpg" width="130">
         </td>
     </tr>
     <tr>
@@ -70,7 +70,7 @@ Live sites: <br>
             <img src="./images/react.png" width="60">
         </td>
         <td align="center">
-            <img src="./images/next.png" width="60">
+            <img src="./images/next.jpg" width="60">
         </td>
     </tr>
     <tr>
@@ -96,7 +96,7 @@ Live sites: <br>
 <table>
     <tr>
     	<td align="center">
-            <img src="./images/unity.png" width="60">
+            <img src="./images/unity.svg" width="60">
         </td>
         <td align="center">
             <img src="./images/tf.png" width="60">
