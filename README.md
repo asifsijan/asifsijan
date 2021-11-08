@@ -30,7 +30,7 @@ Live sites: <br>
             <img src="./images/django.png" width="50">
         </td>
         <td align="center">
-            <img src="./images/fast.jpg" width="50" height="100">
+            <img src="./images/fast.jpg" width="50" height="60">
         </td>
         <td align="center">
             <img src="./images/strapi.jpg" width="50">
