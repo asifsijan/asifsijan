@@ -5,6 +5,6 @@ Web Development || Game Development || Deep Learning
 - 📫 How to reach me: asifsijan@gmail.com
 
 -Live sites:
-  -Movie Database: https://adoring-brattain-367750.netlify.app/
-  -Drawing/ Writing app: https://zen-banach-65e343.netlify.app/?fbclid=IwAR3m73kJjCcRkqVCYhWxju5MxWC5AkNoRc0jEyMOGQ1nz2yoxknq5iDAvH4
-  -Market basket analysis app(mail-asifsijan826@gmail.com, pass-1234test): https://auth-dev-6fa29.web.app/ 
+-Movie Database: https://adoring-brattain-367750.netlify.app/
+-Drawing/ Writing app: https://zen-banach-65e343.netlify.app/?fbclid=IwAR3m73kJjCcRkqVCYhWxju5MxWC5AkNoRc0jEyMOGQ1nz2yoxknq5iDAvH4
+-Market basket analysis app(mail-asifsijan826@gmail.com, pass-1234test): https://auth-dev-6fa29.web.app/ 
