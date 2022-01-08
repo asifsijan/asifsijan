@@ -26,7 +26,7 @@ Live sites: <br>
         <td align="center">
             <img src="./images/python.png" width="50">
         </td>
-        <td align="center">
+<!--         <td align="center">
             <img src="./images/django.png" width="50">
         </td>
         <td align="center">
@@ -34,7 +34,7 @@ Live sites: <br>
         </td>
         <td align="center">
             <img src="./images/strapi.jpg" width="50">
-        </td>
+        </td> -->
     </tr>
     <tr>
         <td align="center">
