@@ -49,7 +49,7 @@ Live sites: <br>
         <td align="center">
             <label>Python</label>
         </td>
-        <td align="center">
+<!--         <td align="center">
             <label>Django</label>
         </td>
         <td align="center">
@@ -57,7 +57,7 @@ Live sites: <br>
         </td>
         <td align="center">
             <label>Strapi</label>
-        </td>
+        </td> -->
     </tr>
 </table>
 <h4>Front End:</h4>
