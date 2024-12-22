@@ -1,4 +1,3 @@
-Web Development || Game Development || Deep Learning 
 
 - 📫 How to reach me: asifsijan@gmail.com
 
